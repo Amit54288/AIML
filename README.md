@@ -22,12 +22,6 @@ You can find the dataset [here](https://www.kaggle.com/datasets/uciml/breast-can
 - **Area:** Area of the tumor.
 - **Smoothness:** Local variation in radius lengths.
 
-### Target Variable
-- **Diagnosis:** M (Malignant) or B (Benign).
-
 This dataset is widely used for machine learning classification tasks and provides a solid foundation for analyzing breast cancer predictions.
 
-## Contact
-
-If you need any help with this project, feel free to reach out to me via email: [karthikgr1908@gmail.com](mailto:karthikgr1908@gmail.com).
 
